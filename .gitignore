@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+whole-breaking-financial.csv
+whole-der-analysis.csv
+.vscode
 # C extensions
 *.so
 
