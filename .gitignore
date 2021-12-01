@@ -4,7 +4,11 @@ __pycache__/
 *$py.class
 whole-breaking-financial.csv
 whole-der-analysis.csv
+checkpoint
+models
+samples
 .vscode
+output.txt
 # C extensions
 *.so
 
